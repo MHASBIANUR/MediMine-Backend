@@ -42,20 +42,11 @@ backend/
 
 ## 🧠 Fitur Utama
 
-### **AI Assistant Medis**
-Menggunakan OpenAI untuk memberikan jawaban medis yang aman, informatif, dan mudah dipahami.
-
-### **Autentikasi JWT**
-Sistem login–register aman berbasis JSON Web Token.
-
-### **Riwayat Pencarian Medis**
-Setiap pertanyaan user disimpan ke database Supabase.
-
-### **Arsitektur Modular**
-Controller, route, middleware, dan utils dipisah agar mudah di-maintain dan dikembangkan.
-
-### **Docker Support**
-Backend dapat dijalankan dengan container deployment yang ringan & scalable.
+- **AI Assistant Medis** - Menggunakan OpenAI untuk memberikan jawaban medis yang aman, informatif, dan mudah dipahami.
+- **Autentikasi JWT** - Sistem login–register aman berbasis JSON Web Token.
+- **Riwayat Pencarian Medis** - Setiap pertanyaan user disimpan ke database Supabase.
+- **Arsitektur Modular** - Controller, route, middleware, dan utils dipisah agar mudah di-maintain dan dikembangkan.
+- **Docker Support** - Backend dapat dijalankan dengan container deployment yang ringan & scalable.
 
 ---
 
